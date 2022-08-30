@@ -8,7 +8,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <br><br>
 - 🧑 You Can Find me on <a href="https://linkedin.com/in/el-yasse-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-yasse-d" height="30" width="40" /></a>
 <br><br>
-- 🧑 You Can Find me on <a href="https://www.leetcode.com/elyasse-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elyasse-d" height="30" width="40" /></a>
+- 🧑 You Can Find me on <a href="https://www.leetcode.com/elyasse-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elyasse-d" height="30" width="40" /></a> 
 </details>
 <br>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
@@ -59,8 +59,8 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a><br><br>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasse-d&show_icons=true&locale=en&layout=compact" alt="elyasse-d" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyasse-d&show_icons=true&locale=en" alt="elyasse-d" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 <br>
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&" alt="elyasse-d" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
