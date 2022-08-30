@@ -12,6 +12,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <br><br>
 - 🔭 I’m currently working on [Web_1](https://github.com/elyasse-d/Web_1)
 </details>
+<br>
 <img align="right" width="38%" src="https://i.imgur.com/EtHU2Lr.jpg">
 <br>
 <h3 align="left">A passionate frontend developer from Morocco</h3>
