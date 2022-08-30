@@ -65,7 +65,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
+<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 </div>
