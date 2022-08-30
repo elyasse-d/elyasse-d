@@ -59,9 +59,13 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a><br><br>
  </p>
-<br><br><br><br>
+ 
+<h3 align="left">More Info :</h3>
+ <div style="display:inline-block;">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
-<br><br><br>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
-<br>
+
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
+</div>
