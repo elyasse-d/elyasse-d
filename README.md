@@ -11,7 +11,6 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 </details>
 <<h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyasse-d" alt="elyasse-d" /></a> </p>
 
 - 🔭 I’m currently working on [Web_1](https://github.com/elyasse-d/Web_1)
 
