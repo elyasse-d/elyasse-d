@@ -6,7 +6,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <br>
 - 👨‍💻 All of my projects Repositoireis are available at [elyasse-d](https://github.com/elyasse-d/)
 <br>
-- 🧑 You Can Find me on [Linkedin](https://www.linkedin.com/in/el-yasse-d/)
+- 🧑 You Can Find me on <a href="https://www.linkedin.com/in/el-yasse-d/">Linkedin</a>
 
 </details>
 ## 🔥 Github Stats
