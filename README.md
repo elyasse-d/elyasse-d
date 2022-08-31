@@ -15,6 +15,8 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 </details>
 <hr>
 <br>
+<div style="display:block;">
+<div >
 <img align="right" width="38%" height="18%" src="https://i.imgur.com/EtHU2Lr.jpg">
 <br>
 <h3 align="left">A Passionate Developer from Morocco</h3>
@@ -72,16 +74,17 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 
 <p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 </div>
-<br>
+</div>
 <br>
 <br>
 <hr>
 <div style="display:block;">
-<h1>LET'S PLAY A GAME :</h1>
+<h1 align="center">LET'S PLAY A GAME :</h1>
 <p align="center">
   <a href="https://lichess.org/@/NomadII">
     <img src="https://andyruwruw.vercel.app/api/chess-games">
   </a>
 </p>
 </div>
+</div >
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
