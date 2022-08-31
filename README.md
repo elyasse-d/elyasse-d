@@ -77,7 +77,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 </div>
 <br>
 <br>
-<div style="width:100%;top:0;">
+<div style="width:100%;margin: auto;">
 <hr>
 
 <h1 align="center">LET'S PLAY A GAME :</h1>
