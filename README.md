@@ -1,3 +1,4 @@
+
 <p>
 Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyber Security and full stack developer . Also I specialise in Content creation and designe . I love to network, join new communities  ✨
 </p>
@@ -10,13 +11,13 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <br><br>
 - 🧑 You Can Find me on <a href="https://www.leetcode.com/elyasse-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elyasse-d" height="30" width="40" /></a> 
 <br><br>
-- 🔭 I’m currently working on [Web_1](https://github.com/elyasse-d/Web_1)
+- 🔭 I’m currently working on <a href="<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> <img height=20px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> </a>
 </details>
 <hr>
 <br>
-<img align="right" width="38%" src="https://i.imgur.com/EtHU2Lr.jpg">
+<img align="right" width="38%" height="18%" src="https://i.imgur.com/EtHU2Lr.jpg">
 <br>
-<h3 align="left">A passionate frontend developer from Morocco</h3>
+<h3 align="left">A Passionate Developer from Morocco</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
@@ -72,4 +73,11 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 </div>
 <br>
+<hr>
+<h1>LET'S PLAY A GAME :</h1>
+<p align="center">
+  <a href="https://lichess.org/@/NomadII">
+    <img src="https://andyruwruw.vercel.app/api/chess-games">
+  </a>
+</p>
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
