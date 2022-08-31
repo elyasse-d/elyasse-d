@@ -77,8 +77,9 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 </div>
 <br>
 <br>
+<div style="width:100%;top:0;">
 <hr>
-<div style="width:100%;">
+
 <h1 align="center">LET'S PLAY A GAME :</h1>
 <p align="center">
   <a href="https://lichess.org/@/NomadII">
