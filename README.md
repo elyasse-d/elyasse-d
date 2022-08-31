@@ -1,4 +1,6 @@
-
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true">
+<br>
+<br>
 <p>
 Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyber Security and full stack developer . Also I specialise in Content creation and designe . I love to network, join new communities  ✨
 </p>
