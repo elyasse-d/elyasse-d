@@ -77,7 +77,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 </div >
 <h3 align="left;width:100%;">More Info :</h3>
 <hr>
- <div style="display:inline-block;">
+ <div style="display:block;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 
