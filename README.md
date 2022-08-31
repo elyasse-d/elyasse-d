@@ -79,12 +79,12 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <hr>
  <div style="display:block;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 <br>
-<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 </div>
 </div>
 <br>
