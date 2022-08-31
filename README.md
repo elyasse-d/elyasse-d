@@ -64,6 +64,17 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a><br><br>
  </p>
  <br><br>
+ <div style="width:100%;margin: auto;">
+<hr>
+
+<h1 align="center">LET'S PLAY A GAME :</h1>
+<p align="center">
+  <a href="https://lichess.org/@/NomadII">
+    <img src="https://andyruwruw.vercel.app/api/chess-games">
+  </a>
+</p>
+</div>
+</div >
 <h3 align="left;width:100%;">More Info :</h3>
 <hr>
  <div style="display:inline-block;">
@@ -77,15 +88,5 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 </div>
 <br>
 <br>
-<div style="width:100%;margin: auto;">
-<hr>
 
-<h1 align="center">LET'S PLAY A GAME :</h1>
-<p align="center">
-  <a href="https://lichess.org/@/NomadII">
-    <img src="https://andyruwruw.vercel.app/api/chess-games">
-  </a>
-</p>
-</div>
-</div >
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
