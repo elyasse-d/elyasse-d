@@ -15,7 +15,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 </details>
 <hr>
 <br>
-<div style="display:block;">
+<div style="display:inline-block;">
 <div >
 <img align="right" width="38%" height="18%" src="https://i.imgur.com/EtHU2Lr.jpg">
 <br>
