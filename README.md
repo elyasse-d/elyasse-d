@@ -64,7 +64,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a><br><br>
  </p>
  <br><br>
-<h3 align="left">More Info :</h3>
+<h3 align="left;width:100%;">More Info :</h3>
 <hr>
  <div style="display:inline-block;">
 
