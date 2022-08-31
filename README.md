@@ -12,6 +12,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 <br><br>
 - 🔭 I’m currently working on [Web_1](https://github.com/elyasse-d/Web_1)
 </details>
+<hr>
 <br>
 <img align="right" width="38%" src="https://i.imgur.com/EtHU2Lr.jpg">
 <br>
@@ -61,6 +62,7 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
  </p>
  <br><br>
 <h3 align="left">More Info :</h3>
+<hr>
  <div style="display:inline-block;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasse-d&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
@@ -69,3 +71,5 @@ Hi 👋 , I am EL YASSE a junior Computer Science enthusiastic and ambitious Cyb
 
 <p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasse-d&&theme=gruvbox&layout=compact&hide_border=true" alt="elyasse-d" /></p>
 </div>
+<br>
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
